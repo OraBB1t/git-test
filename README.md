@@ -1,2 +1,2 @@
 # git-test
-A blank repo for my lectureres to see
+A blank repo for my lecturers to see
